@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 namespace paradigm_shift_csharp
 {
-class Checker
+class BatteryChecker
 {
     static bool batteryIsOk(float temperature, float soc, float chargeRate) {
         if(temperature < 0 || temperature > 45) {
