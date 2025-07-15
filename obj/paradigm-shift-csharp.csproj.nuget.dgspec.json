@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\HAW2KOR\\source\\TCQ\\simple-monitor-in-csharp-ashwinashok9111993\\paradigm-shift-csharp.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\HAW2KOR\\source\\TCQ\\simple-monitor-in-csharp-ashwinashok9111993\\paradigm-shift-csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\HAW2KOR\\source\\TCQ\\simple-monitor-in-csharp-ashwinashok9111993\\paradigm-shift-csharp.csproj",
+        "projectName": "paradigm-shift-csharp",
+        "projectPath": "c:\\Users\\HAW2KOR\\source\\TCQ\\simple-monitor-in-csharp-ashwinashok9111993\\paradigm-shift-csharp.csproj",
+        "packagesPath": "C:\\Users\\HAW2KOR\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\HAW2KOR\\source\\TCQ\\simple-monitor-in-csharp-ashwinashok9111993\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HAW2KOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
