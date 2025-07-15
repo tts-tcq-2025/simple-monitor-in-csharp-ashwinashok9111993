@@ -5,7 +5,7 @@ namespace paradigm_shift_csharp
 {
 class BatteryChecker
 {
-    //lambda
+    //Using Lambda functions to separate the IO
     static bool IsTemperatureOk(float temperature) => temperature >= 0 && temperature <= 45;
     static bool IsSocOk(float soc) => soc >= 20 && soc <= 80;
     static bool IsChargeRateOk(float chargeRate) => chargeRate <= 0.8;
@@ -15,22 +15,16 @@ class BatteryChecker
       return (IsTemperatureOk(temperature) && IsSocOk(soc) && IsChargeRateOk(chargeRate));
     }
 
-    static void ExpectTrue(bool expression) {
-        if(!expression) {
-            Console.WriteLine("Expected true, but got false");
+    static void Expect(bool expression, bool expectation) {
+        if(expression && !expectation) {
+            Console.WriteLine("Expected {0}, but got {1}",expectation,expression);
             Environment.Exit(1);
         }
     }
-    static void ExpectFalse(bool expression) {
-        if(expression) {
-            Console.WriteLine("Expected false, but got true");
-            Environment.Exit(1);
-        }
-    }
-    
+
     static int Main() {
-        ExpectTrue(batteryIsOk(25, 70, 0.7f));
-        ExpectFalse(batteryIsOk(50, 85, 0.0f));
+        Expect(batteryIsOk(25, 70, 0.7f),true);
+        Expect(batteryIsOk(50, 85, 0.0f),false);
         Console.WriteLine("All ok");
         return 0;
     }
