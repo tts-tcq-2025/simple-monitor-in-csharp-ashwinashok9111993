@@ -1,20 +1,20 @@
-using System;
-using System.Diagnostics;
 
 namespace paradigm_shift_csharp
 {
 class BatteryChecker
 {
-    //Using Lambda functions to separate the IO
+    // Using Lambda functions to separate the IO? 
+    // Do we need to log the status in IO separately? 
     static bool IsTemperatureOk(float temperature) => temperature >= 0 && temperature <= 45;
     static bool IsSocOk(float soc) => soc >= 20 && soc <= 80;
     static bool IsChargeRateOk(float chargeRate) => chargeRate <= 0.8;
 
     static bool batteryIsOk(float temperature, float soc, float chargeRate) 
     {
-      return (IsTemperatureOk(temperature) && IsSocOk(soc) && IsChargeRateOk(chargeRate));
+      return IsTemperatureOk(temperature) && IsSocOk(soc) && IsChargeRateOk(chargeRate);
     }
 
+    
     static void Expect(bool expression, bool expectation) {
         if(expression && !expectation) {
             Console.WriteLine("Expected {0}, but got {1}",expectation,expression);
