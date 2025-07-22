@@ -1,0 +1,15 @@
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\bin\Debug\net8.0\paradigm-shift-csharp.exe
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\bin\Debug\net8.0\paradigm-shift-csharp.deps.json
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\bin\Debug\net8.0\paradigm-shift-csharp.runtimeconfig.json
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\bin\Debug\net8.0\paradigm-shift-csharp.dll
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\bin\Debug\net8.0\paradigm-shift-csharp.pdb
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\paradigm-shift-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\paradigm-shift-csharp.AssemblyInfoInputs.cache
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\paradigm-shift-csharp.AssemblyInfo.cs
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\paradigm-shift-csharp.csproj.CoreCompileInputs.cache
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\paradigm-shift-csharp.sourcelink.json
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\paradigm-shift-csharp.dll
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\refint\paradigm-shift-csharp.dll
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\paradigm-shift-csharp.pdb
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\paradigm-shift-csharp.genruntimeconfig.cache
+C:\Users\HAW2KOR\source\TCQ\simple-monitor-in-csharp-ashwinashok9111993\obj\Debug\net8.0\ref\paradigm-shift-csharp.dll
