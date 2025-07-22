@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ashwin Ashok\\.nuget\\packages\\": {},
+    "C:\\Users\\HAW2KOR\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ashwin Ashok\\Source\\Repos\\simple-monitor-in-csharp-ashwinashok9111993\\paradigm-shift-csharp.csproj",
+      "projectUniqueName": "C:\\Users\\HAW2KOR\\source\\TCQ\\simple-monitor-in-csharp-ashwinashok9111993\\paradigm-shift-csharp.csproj",
       "projectName": "paradigm-shift-csharp",
-      "projectPath": "C:\\Users\\Ashwin Ashok\\Source\\Repos\\simple-monitor-in-csharp-ashwinashok9111993\\paradigm-shift-csharp.csproj",
-      "packagesPath": "C:\\Users\\Ashwin Ashok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashwin Ashok\\Source\\Repos\\simple-monitor-in-csharp-ashwinashok9111993\\obj\\",
+      "projectPath": "C:\\Users\\HAW2KOR\\source\\TCQ\\simple-monitor-in-csharp-ashwinashok9111993\\paradigm-shift-csharp.csproj",
+      "packagesPath": "C:\\Users\\HAW2KOR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HAW2KOR\\source\\TCQ\\simple-monitor-in-csharp-ashwinashok9111993\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ashwin Ashok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HAW2KOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -50,8 +50,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
